@@ -1,0 +1,11 @@
+{
+  "format": 1,
+  "modules": [
+    {"id": "perfect-dark"},
+    {"id": "goldeneye"},
+    {"id": "shipwright"},
+    {"id": "2ship2harkinian"},
+    {"id": "spaghettikart"},
+    {"id": "paperboat"}
+  ]
+}
