@@ -1,11 +1,13 @@
 {
   "format": 1,
   "modules": [
+    {"id": "ghostship"},
+    {"id": "shipwright"},
+    {"id": "lighthouse"},
     {"id": "perfect-dark"},
     {"id": "goldeneye"},
-    {"id": "shipwright"},
     {"id": "2ship2harkinian"},
-    {"id": "spaghettikart"},
-    {"id": "paperboat"}
+    {"id": "paperboat"},
+    {"id": "spaghettikart"}
   ]
 }
